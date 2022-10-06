@@ -1,7 +1,7 @@
 # CHANDHU-C-PRGM
 
 ## EXPERIMENT-1
-EXPERIMENT-1(
+EXPERIMENT-1(https://github.com/Chandumoreesu9966/CHANDHU-C-PRGM/tree/main/DAY-1%20EXPERIMENTS)
 ## OUTPUT
 ## 1.ARITHEMATIC OPERATION
 ![image](https://user-images.githubusercontent.com/114127578/194321465-984fa372-6a2f-4018-a741-ef32968eafde.png)
@@ -36,7 +36,7 @@ EXPERIMENT-1(
 
 
 ## DAY-2 EXPERIMENTS
-DAY-2 EXPERIMENTS(
+DAY-2 EXPERIMENTS(https://github.com/Chandumoreesu9966/CHANDHU-C-PRGM/tree/main/DAY-2%20EXPERIMENTS)
 ## OUTPUT
 ## 1.COMPOSITE NUMBER
 ![image](https://user-images.githubusercontent.com/114127578/194322718-cee12058-0856-4e10-90b1-0de3f14d2681.png)
@@ -58,7 +58,7 @@ DAY-2 EXPERIMENTS(
 
 
  ## DAY-3 EXPERIMENTS
- DAY-3 EEXPERIMENNTS(
+ DAY-3 EEXPERIMENNTS(https://github.com/Chandumoreesu9966/CHANDHU-C-PRGM/tree/main/DAY-3%20EXPERIMENTS)
  ## OUTPUT
  ## 1.ADD TWO NUMBERS
  ![image](https://user-images.githubusercontent.com/114127578/194323592-e80d7861-827d-4133-b6d8-6741c2dae6f3.png)
